@@ -3,11 +3,12 @@ Shana Elizabeth Henry
 
 #Session 00: 09/01
 
-1. NY CS standard: 
+1. NY CS standard: 9-12.CT.3 Data Analysis and Visualization
 
-2. NY CS standard: 
+A task is to collect the number of calories that you consume over a month (broken into sections).  Student can choose what to focus on: some examples: time of meal (breakfast,lunch, dinner, snack), breakdown of nutrients (carbs, fat, protein), etc. They have to then visual their data set.  They can create different graphs that then tell different stories using the same set of data. For differentation: students can pair in groups of two to work together (if they need support, and work on one data set), or for higher students they can gather data from multiple people to create a larger data set and then use an app (after doing their own research) to assist in analysing, refining, and visualizing subsets of data.
 
 
+2. NY CS standard: 9-12.CT.6 Algorithms and Programming
 
-Pick 2 specific NY CS standards and describe a lesson/task/assignment that addresses your selected standards, explain how.
-  * You can use the same lesson/task/assignment for both, or different ones.
+A lesson warm-up to this concept is the distrubtion property. The warm-up will ask students to solve 8(4+5) in two different ways.  The write-up to this problem will include the following two questions:  a) Then ask which way is better and why.  b) Are there trade-offs for solving the task when done a certain way.  This warm-up is to lead students to understanding the concept of this standard before seeing the CS application of it.  I am excited to continue to study CS so that I can get to the level to have examples of this standard for high school in CS that I can draw on from my prior knowledge base.  It is benefical to have students demonstrate how two classic algorithms work. The ability to analyze the trade-offs related to at least two algorithms to complete the same task will carry over into other school subjects. Computational thinking leads to problem solving and our world has plenty of issues that will rely on future computer scientists.  
+
