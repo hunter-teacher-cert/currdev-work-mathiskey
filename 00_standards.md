@@ -7,7 +7,7 @@ I am fortunate to create my own curriculum. One curriculum I am currently workin
 
 A task is to collect the number of calories that you consume over a month (broken into sections).  Student can choose what to focus on: some examples: time of meal (breakfast,lunch, dinner, snack), breakdown of nutrients (carbs, fat, protein), etc. They have to then visual their data set.  They can create different graphs that then tell different stories using the same set of data. For differentation: students can pair in groups of two to work together (if they need support, and work on one data set), or for higher students they can gather data from multiple people to create a larger data set and then use an app (after doing their own research) to assist in analysing, refining, and visualizing subsets of data.  Examples of websites to send students: excel, D3.js, Python (Seaborn).  The image below is from one student who collected one week's worth of data. 
 
-! [student pie chart][IMG_7203](https://user-images.githubusercontent.com/57843914/189007152-0e8a0d2e-83cf-4951-9342-de862f95ca39.JPG)
+![student pie chart][IMG_7203](https://user-images.githubusercontent.com/57843914/189007152-0e8a0d2e-83cf-4951-9342-de862f95ca39.JPG)
 
 A student created a pie chart and one analysis is that their caloric snack intake was greater than their caloric breakfast and lunch intake combined.  This analysis was aided by the visualization of the graph and not realized by viewing the data in table format.  My goal is to improve the curriculum so that students can do this using larget sets of data and computer programs to aid in the analysis. 
 
