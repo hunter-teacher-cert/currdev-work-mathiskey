@@ -2,9 +2,13 @@ Session 01: 09/08
 Shana Elizabeth Henry
 
 Comparison of two curriculums:  CS Creative Web and CS Discoveries 
+The course I currently teach takes part of a pre-packaged curriculum, and the course I am comparing is also a pre-packaged curriculum I have taught in the past that I don't intend to use again.  I have not yet built my own CS course, I have only used pre-packaged courses from CS4ALL. 
 
 
-Major differences
-Major similiarities
-Comparative streangths & weaknesses (That is does one cover a topic paticularly better/worse over the other. If both seem euqlly good then no need to comment).
-Would you adopt anything from the curriculum you do not teach into your class if you could? Why?
+Comparison | CS Creative Web | CS Discoveries
+--- | --- | ---
+Major Differences | 2 | 3
+Major similiarities | 2 | 3
+Comparative strengths & weaknesses | 2 | 3
+Adopt anything from the pre-packaged curriculum & why | 2 | 3
+
