@@ -5,7 +5,7 @@
 ### CS + Arts - Future course Spring 2023
 Course Overview:
 
-+ CS + Arts is an introductory computer science (CS) expedition that guides students to explore fundamental CS concepts while considering ethical issues related to CS.  No prior CS knowledge is necessary. The objective is to learn fundamental CS concepts through the Arts. We will have three case studies: 1) music + coding  2) digital art  and 3) code a song or art piece for someone in your community.  We will have fieldwork, guest experts and share our work with a wider audience.  There are no prerequisites and it is open to all students.
++ CS + Arts is an introductory computer science (CS) expedition that guides students to explore fundamental CS concepts while considering ethical issues related to CS.  No prior CS knowledge is necessary. The objective is to learn fundamental CS concepts through the Arts. We will have three case studies: 1) music + coding  2) digital art  and 3) code a song or art piece for someone in your community. Students will be introduced to the JavaScript block coding environment. We will have fieldwork, guest experts and share our work with a wider audience.  There are no prerequisites and it is open to all students.
 
 Target audiance: 
 
