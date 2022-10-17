@@ -20,7 +20,7 @@ Task:
 
 2. Let's find out the code that is making the images scroll.  
 
-- Teacher notes:  Introduce this new layout feature as: Parallax Scrolling and then define it.  Parallax scrolling is where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling.  At this stage in the Unit, we are working towards independence of finding new layout features and learning how to implement them to our personal website.  Work with your group to visit [W3schools](url) to annotate the code.  Make sure you find the specific code that is changing the different speeds of the foreground content while scrolling. OR visit [Bootstrap]([url](https://getbootstrap.com/)) to modify the pre-packaged code. 
+- Teacher notes:  Introduce this new layout feature as: Parallax Scrolling and then define it.  Parallax scrolling is where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling.  At this stage in the Unit, we are working towards independence of finding new layout features and learning how to implement them to our personal website.  Work with your group to visit [W3schools](url) to annotate the code.  Make sure you find the specific code that is changing the different speeds of the foreground content while scrolling. OR visit [Bootstrap](url) to modify the pre-packaged code. 
 
 3. Add this new layout feature to your personal website. You have the rest of class to incorporate this new feature.  If you don't finish in class then it becomes homework.  It is due @ the beginning of next class as always.
 
