@@ -14,13 +14,13 @@ Lesson 7: The assignment is to learn a new layout feature called Parallax Scroll
 Student Facing Instructions:
 
 Task:
-1. Think, pair, Share. View the photographer, Nolan Omura, [website](url).  What do you notice about the layout of the images?  Can you explain how it works?
+1. Think, pair, Share. View the photographer, Nolan Omura, [website](https://www.nolanomura.com/).  What do you notice about the layout of the images?  Can you explain how it works?
 
 - Teacher notes: Draw from the conversation: how the images are moving, movement of the turtle
 
 2. Let's find out the code that is making the images scroll.  
 
-- Teacher notes:  Introduce this new layout feature as: Parallax Scrolling and then define it.  Parallax scrolling is where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling.  At this stage in the Unit, we are working towards independence of finding new layout features and learning how to implement them to our personal website.  Work with your group to visit [W3schools](url) to annotate the code.  Make sure you find the specific code that is changing the different speeds of the foreground content while scrolling. OR visit [Bootstrap](url) to modify the pre-packaged code. 
+- Teacher notes:  Introduce this new layout feature as: Parallax Scrolling and then define it.  Parallax scrolling is where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling.  At this stage in the Unit, we are working towards independence of finding new layout features and learning how to implement them to our personal website.  Work with your group to visit [W3schools](https://www.w3schools.com/howto/howto_css_parallax.asp) to annotate the code.  Make sure you find the specific code that is changing the different speeds of the foreground content while scrolling. OR visit [Bootstrap](https://www.getbootstrap.com) to modify the pre-packaged code. 
 
 3. Add this new layout feature to your personal website. You have the rest of class to incorporate this new feature.  If you don't finish in class then it becomes homework.  It is due @ the beginning of next class as always.
 
